@@ -2,8 +2,6 @@
 
 Esta API fornece dados organizados de eventos de CS2, com foco em fases suicas: eventos, stages, times, partidas, mapas, resultados e classificacao dos times dentro da fase.
 
-A API nao calcula pontuacao do bolao, nao recebe palpites e nao contem regra de premiacao. O site do bolao deve consumir estes dados e aplicar sua propria regra de pontuacao.
-
 ## Base URL
 
 Local:
